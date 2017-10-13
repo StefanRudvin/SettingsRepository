@@ -1,0 +1,14 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Dropbox/Code/finternet/JobillaWeb/vendor/finternet-group/coding-rules/phpcs/ruleset.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.10.0" last-modified="1494856131000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.10.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.9.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.8.0/bin/node" />
+  </component>
+</application>

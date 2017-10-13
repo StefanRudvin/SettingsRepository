@@ -1,0 +1,21 @@
+<templateSet group="PHP">
+  <template name="test" value="/** @test */&#10;public function $Action$()&#10;{&#10;    $END$&#10;}" description="Make test class" toReformat="false" toShortenFQNames="true">
+    <variable name="Action" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="met" value="public function $action$()&#10;{&#10;    $END$&#10;}" description="make public method" toReformat="false" toShortenFQNames="true">
+    <variable name="action" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\WithoutMiddleware;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;use Illuminate\Foundation\Testing\DatabaseTransactions;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use DatabaseMigrations;&#10;    &#10;    /** @test */&#10;    public function it_$METHOD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="New Test Class" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

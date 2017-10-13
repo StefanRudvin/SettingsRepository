@@ -1,0 +1,16 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="Vue" injector-id="xml">
+      <display-name>create-page-modal/@title</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("title")).withParent(xmlTag().withLocalName(string().equalTo("create-page-modal")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="VueJS" injector-id="xml">
+      <display-name>create-page-modal/@title</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("title")).withParent(xmlTag().withLocalName(string().equalTo("create-page-modal")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>html</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("html")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+  </component>
+</application>
