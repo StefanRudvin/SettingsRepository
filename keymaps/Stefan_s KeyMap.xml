@@ -18,6 +18,11 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="CheckinProject" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="DuplicatesForm.SendToLeft">
     <keyboard-shortcut first-keystroke="meta less" />
   </action>
@@ -51,9 +56,6 @@
   </action>
   <action id="Go To Tab #6">
     <keyboard-shortcut first-keystroke="meta 6" />
-  </action>
-  <action id="Go To Tab #7">
-    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="Go To Tab #8">
     <keyboard-shortcut first-keystroke="meta 8" />
