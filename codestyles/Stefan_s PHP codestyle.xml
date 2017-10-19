@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="Stefan's PHP codestyle">
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
