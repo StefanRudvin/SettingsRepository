@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../database/migrations/2017_10_29_173406_remove_apply_id_from_user_file_table.php - [JobillaWeb]'" />
+    <option name="defaultScopeName" value="File '.../database/migrations/2017_10_29_173406_remove_apply_id_from_user_file_table.php - [JobillaWeb]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2017_10_29_173406_remove_apply_id_from_user_file_table.php - [JobillaWeb]'" />
   </component>
 </application>
