@@ -18,10 +18,18 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="CheckinProject" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta divide" />
-    <keyboard-shortcut first-keystroke="shift meta 7" />
-    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="DuplicatesForm.SendToLeft">
     <keyboard-shortcut first-keystroke="meta less" />
