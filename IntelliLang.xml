@@ -8,6 +8,14 @@
       <display-name>create-page-modal/@title</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("title")).withParent(xmlTag().withLocalName(string().equalTo("create-page-modal")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="ECMAScript 6" injector-id="xml">
+      <display-name>div/@id</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("id")).withParent(xmlTag().withLocalName(string().equalTo("div")))]]></place>
+    </injection>
+    <injection language="JSX Harmony" injector-id="xml">
+      <display-name>div/@id</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("id")).withParent(xmlTag().withLocalName(string().equalTo("div")))]]></place>
+    </injection>
     <injection language="HTML" injector-id="xml">
       <display-name>html</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("html")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
