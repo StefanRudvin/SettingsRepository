@@ -34,7 +34,7 @@
         <option name="generalSettings">
           <MavenGeneralSettings>
             <option name="alwaysUpdateSnapshots" value="true" />
-            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="mavenHome" value="/usr/local/opt/maven/libexec" />
             <option name="threads" value="4" />
             <option name="usePluginRegistry" value="true" />
           </MavenGeneralSettings>
