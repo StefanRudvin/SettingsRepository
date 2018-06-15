@@ -203,7 +203,7 @@
         <configuration default="false" name="[prod]" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="MAIN_CLASS_NAME" value="" />
-          <option name="VM_PARAMETERS" value="-Dhubspot.zk.group=CHANGE_ME -Ddw.http.port=8999 -Xms256m -Xmx3072m -Dhubspot.isProduction=true -Dhubspot.zk.environment=prod_iad01 -Dhubspot.zk.quorum=chatham.iad01.hubspot-networks.net:2181,scobey.iad01.hubspot-networks.net:2181,wise.iad01.hubspot-networks.net:2181,dinkey.iad01.hubspot-networks.net:2181,dorsey.iad01.hubspot-networks.net:2181 -Dhubspot.zk.authkey=ecb73159-8c45-49e4-a8a5-991953217871 -Dhubspot.zk.metaurl=https://internal.hubapi.com/meta/v2/config" />
+          <option name="VM_PARAMETERS" value="-Dhubspot.zk.group=CHANGE_ME -Dhubspot.local.env=prod" />
           <option name="PROGRAM_PARAMETERS" value="server PROJECT/hubspot.deploy/PROJECTService.yaml" />
           <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
