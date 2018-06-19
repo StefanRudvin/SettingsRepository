@@ -46,7 +46,7 @@ Go to **VCS > Sync Settings > Overwrite Remote**
 
 ### Add remote
 ```bash
-git remote add upstream https://github.com/HubSpot/intellij-settings.git
+git remote add upstream git@git.hubteam.com:HubSpot/intellij-settings.git
 ```
 
 #### Follow [the GitHub guide](https://help.github.com/articles/syncing-a-fork/)
