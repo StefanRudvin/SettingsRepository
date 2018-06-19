@@ -407,10 +407,6 @@
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <method />
         </configuration>
-        <list size="2">
-          <item index="0" class="java.lang.String" itemvalue="Application.[qa]" />
-          <item index="1" class="java.lang.String" itemvalue="Application.[prod]" />
-        </list>
       </component>
       <component name="SvnConfiguration">
         <configuration>$USER_HOME$/.subversion</configuration>
