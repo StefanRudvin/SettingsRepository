@@ -18,6 +18,12 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="CheckinProject" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -27,6 +33,7 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -82,6 +89,9 @@
   <action id="GotoLine" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="RenameElement">
