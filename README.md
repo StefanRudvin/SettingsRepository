@@ -26,6 +26,9 @@ Add it and click `merge`:
 
 ![](https://git.hubteam.com/storage/user/589/files/64b06e16-73c2-11e8-9b33-19af6a094db8)
 
+#### Troubleshooting
+If this stage fails with an `Auth fail` message, simply clone your settings repo and point IntelliJ to the local directory.
+
 ### Migrating to this set up
 
 The above steps should work for you. One gotcha is that our Java style module has been renamed to `HubSpotDefault` from `Default (1)`. You can migrate your settings before merging things in by copying [this PR](https://git.hubteam.com/HubSpot/intellij-settings/pull/4).
