@@ -76,4 +76,4 @@ jar cf settings-$(date +'%Y-%m-%d').jar *
 
 #### After importing the settings, the coding style hasn't changed.
 
-Go to **Preferences > Editor > Code Style** and make sure **HubSpotDefault** is the selected Scheme.
+Go to **Preferences > Editor > Code Style** and make sure `HubSpotDefault` is the selected scheme.
