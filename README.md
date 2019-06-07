@@ -71,3 +71,9 @@ You can build a new settings jar by running the following from the repo root.
 ```shell
 jar cf settings-$(date +'%Y-%m-%d').jar *
 ```
+
+## Troubleshooting
+
+#### After importing the settings, the coding style hasn't changed.
+
+Go to **Preferences > Editor > Code Style** and make sure `HubSpotDefault` is the selected scheme.
