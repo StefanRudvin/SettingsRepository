@@ -51,5 +51,12 @@
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="GotoLine" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta caps_lock" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
