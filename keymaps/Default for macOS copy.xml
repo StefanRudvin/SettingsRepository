@@ -1,7 +1,7 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
-    <keyboard-shortcut first-keystroke="d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
@@ -9,22 +9,16 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
     <keyboard-shortcut first-keystroke="p" />
   </action>
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
-    <keyboard-shortcut first-keystroke="r" />
-  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="t" />
-  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="Annotate">
-    <keyboard-shortcut first-keystroke="g" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="CheckinProject" />
