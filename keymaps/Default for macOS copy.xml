@@ -75,7 +75,9 @@
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
-  <action id="GotoLine" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="MoveTabRight">
