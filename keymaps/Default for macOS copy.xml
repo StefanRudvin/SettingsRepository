@@ -27,6 +27,14 @@
     <mouse-shortcut keystroke="shift alt button1" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="caps_lock" second-keystroke="down" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="caps_lock" second-keystroke="up" />
+  </action>
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
