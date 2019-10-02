@@ -45,6 +45,7 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -81,7 +82,9 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="GuiDesigner.CreateListener" />
   <action id="Images.ShowThumbnails" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
   </action>
@@ -90,6 +93,11 @@
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="NextWindow" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
