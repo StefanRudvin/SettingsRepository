@@ -87,6 +87,7 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+    <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="true">
