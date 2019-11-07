@@ -83,6 +83,10 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GuiDesigner.CreateListener" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MoveTabRight">
