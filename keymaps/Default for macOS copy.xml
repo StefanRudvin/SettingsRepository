@@ -7,6 +7,7 @@
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
@@ -91,10 +92,6 @@
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
-  </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt tab" />
-    <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="NextWindow" />
   <action id="OptimizeImports">
