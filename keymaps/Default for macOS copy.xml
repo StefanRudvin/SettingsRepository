@@ -7,7 +7,6 @@
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
-    <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
@@ -93,6 +92,10 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="NextWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
@@ -113,10 +116,6 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
 </keymap>
