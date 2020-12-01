@@ -21,6 +21,7 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="CheckinProject" />
+  <action id="Diff.FocusOppositePane" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret">
@@ -96,6 +97,11 @@
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="NextWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
@@ -116,6 +122,7 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="Switcher" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
 </keymap>
