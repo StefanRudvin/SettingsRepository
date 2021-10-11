@@ -21,6 +21,16 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="CheckinProject" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
@@ -39,14 +49,33 @@
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="ExportToTextFile" />
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -88,7 +117,13 @@
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="Images.ShowThumbnails" />
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
