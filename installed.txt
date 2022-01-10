@@ -1,0 +1,2 @@
+com.nmatveev.idea-plugin-protobuf
+org.intellij.scala

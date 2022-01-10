@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".build-yarn-cdh5" type="PLAIN_TEXT" />
+      <mapping pattern=".prettier-java-enabled" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
