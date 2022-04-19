@@ -1,6 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/code/flatsale-inbound-service/models/high_risk_brand.go" value="Go" />
+    <file url="file://$USER_HOME$/code/flatsale-inbound-service/models/high_risk_brand.go" value="Go" />
     <file url="file://$USER_HOME$/code/flatsale-inbound-service/models/high_risk_brand_statuses.go" value="Go" />
   </component>
 </application>
