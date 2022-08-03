@@ -84,6 +84,10 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FrameSwitchAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -134,7 +138,6 @@
     <keyboard-shortcut first-keystroke="meta caps_lock" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="NextTab">
@@ -163,6 +166,9 @@
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="Switcher" />
+  <action id="Terminal.NextSplitter">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
 </keymap>
