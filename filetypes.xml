@@ -9,6 +9,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".prettier-java-enabled" type="PLAIN_TEXT" />
       <mapping pattern=".build-yarn-cdh5" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
