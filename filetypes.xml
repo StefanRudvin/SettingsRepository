@@ -4,6 +4,7 @@
       <mapping pattern="e2e_test_token" type="AUTO_DETECTED" />
       <mapping pattern="HeisenbergProjectMixin" type="AUTO_DETECTED" />
       <mapping pattern="high_risk_brand.go" type="AUTO_DETECTED" />
+      <mapping pattern="carts" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
