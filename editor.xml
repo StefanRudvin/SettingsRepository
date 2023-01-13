@@ -6,7 +6,7 @@
     <EXCLUDED_PACKAGE NAME="org.immutables.value.internal" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
