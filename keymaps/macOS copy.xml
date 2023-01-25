@@ -25,6 +25,10 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FrameSwitchAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
   <action id="Git.Commit.Stage" />
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -56,6 +60,7 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="NextSplitter" />
   <action id="NextWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
@@ -77,6 +82,7 @@
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="Terminal.NextSplitter" />
   <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.UpdateProject" />
 </keymap>
