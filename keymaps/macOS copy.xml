@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -47,6 +48,11 @@
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta alt r" />
@@ -57,6 +63,7 @@
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
