@@ -8,6 +8,9 @@
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="DuplicatesForm.SendToLeft" />
@@ -48,6 +51,9 @@
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -57,14 +63,17 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResourceExplorer.show" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="UsageGrouping.FlattenModules" />
-  <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
