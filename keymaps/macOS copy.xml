@@ -3,7 +3,9 @@
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProblemsViewToolWindow" />
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
@@ -54,6 +56,7 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="NextWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="ctrl o" />
