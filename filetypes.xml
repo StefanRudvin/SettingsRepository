@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="e2e_test_token" type="AUTO_DETECTED" />
       <mapping pattern="HeisenbergProjectMixin" type="AUTO_DETECTED" />
-      <mapping pattern="high_risk_brand.go" type="AUTO_DETECTED" />
+      <mapping pattern="e2e_test_token" type="AUTO_DETECTED" />
       <mapping pattern="carts" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="high_risk_brand.go" type="AUTO_DETECTED" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern=".prettier-java-enabled" type="PLAIN_TEXT" />
       <mapping pattern=".build-yarn-cdh5" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
