@@ -1,0 +1,11 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.DecrementAction" />
+        <option name="description" value="Decrement numbers inside selected text" />
+        <option name="textWithMnemonic" value="Decrement" />
+      </UniversalActionModel>
+    </option>
+  </component>
+</application>
