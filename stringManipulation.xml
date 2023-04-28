@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.DecrementAction" />
-        <option name="description" value="Decrement numbers inside selected text" />
-        <option name="textWithMnemonic" value="Decrement" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.IncrementAction" />
+        <option name="description" value="Increment numbers inside selected text" />
+        <option name="textWithMnemonic" value="Increment" />
       </UniversalActionModel>
     </option>
   </component>
