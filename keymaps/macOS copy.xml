@@ -30,6 +30,9 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="EditorSelectSingleLineAtCaret">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
@@ -37,6 +40,9 @@
   <action id="FrameSwitchAction">
     <keyboard-shortcut first-keystroke="alt f2" />
     <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="Git.Commit.Stage" />
   <action id="GoToTab1">
@@ -66,8 +72,15 @@
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="NextSplitter" />
   <action id="NextWindow" />
