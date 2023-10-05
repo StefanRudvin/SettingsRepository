@@ -1,6 +1,7 @@
 <application>
   <component name="CodyApplicationSettings">
     <option name="anonymousUserId" value="83c32795-9336-454e-ae3d-2e3088ccfbad" />
+    <option name="installEventLogged" value="true" />
     <option name="onboardingGuidanceDismissed" value="true" />
   </component>
 </application>
