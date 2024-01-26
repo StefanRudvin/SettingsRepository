@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="aws.toolkit" />
+        <option value="cucumber-java" />
       </list>
     </option>
   </component>
