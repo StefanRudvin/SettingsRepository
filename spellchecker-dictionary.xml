@@ -4,6 +4,8 @@
       <w>asyncs</w>
       <w>backfill</w>
       <w>backfills</w>
+      <w>databasechangelog</w>
+      <w>databasechangeloglock</w>
       <w>healthcheck</w>
       <w>healthchecks</w>
       <w>hublet</w>
