@@ -5,6 +5,8 @@
       <w>atlan</w>
       <w>backfill</w>
       <w>backfills</w>
+      <w>bidatacatalog</w>
+      <w>dataassets</w>
       <w>databasechangelog</w>
       <w>databasechangeloglock</w>
       <w>healthcheck</w>
