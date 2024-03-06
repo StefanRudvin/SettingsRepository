@@ -1,6 +1,5 @@
 <application>
   <component name="LafManager">
-    <laf themeId="d97839ff-2d08-4ff5-ae61-b075f351d8ac" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
     </lafs-to-previous-schemes>
