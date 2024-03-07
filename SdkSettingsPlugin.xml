@@ -1,0 +1,5 @@
+<application>
+  <component name="com.hubspot.intellij.plugin.settings.HubSpotSettingsState">
+    <option name="hubspotSettingsV2" value="{&quot;navigateToImmutableDeclarationMaybe&quot;:true,&quot;includeGeneratedImmutableUsagesMaybe&quot;:null,&quot;runConfigsEnabledMaybe&quot;:null,&quot;useDeployConfigValueMountsMaybe&quot;:null,&quot;settingsMigrated&quot;:false,&quot;runConfigsEnabled&quot;:true,&quot;useDeployConfigValueMounts&quot;:true,&quot;includeGeneratedImmutableUsages&quot;:false,&quot;navigateToImmutableDeclaration&quot;:true}" />
+  </component>
+</application>
