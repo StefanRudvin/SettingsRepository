@@ -113,4 +113,8 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="sourcegraph.openFile">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="sourcegraph.openFindPopup" />
 </keymap>

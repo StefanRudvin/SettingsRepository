@@ -1,0 +1,7 @@
+<application>
+  <component name="CodyAccounts">
+    <account name="srudvin" displayName="srudvin" id="VXNlcjo1NDY=">
+      <server url="https://sg-api.hubteam.com/" />
+    </account>
+  </component>
+</application>
