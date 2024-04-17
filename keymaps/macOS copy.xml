@@ -82,6 +82,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="NextSplitter" />
   <action id="NextWindow" />
   <action id="OptimizeImports">
