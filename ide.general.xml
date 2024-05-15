@@ -8,5 +8,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
 </application>
