@@ -4,6 +4,7 @@
       <list>
         <option value="aws.toolkit" />
         <option value="cucumber-java" />
+        <option value="idea.plugin.protoeditor" />
       </list>
     </option>
   </component>
