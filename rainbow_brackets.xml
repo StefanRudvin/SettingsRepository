@@ -2,6 +2,7 @@
   <component name="RainbowSettings">
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="indentGuidesOptions" value="Only selected indent guide" />
+    <option name="suppressBigFileCheck" value="true" />
     <option name="suppressXMLCheck" value="true" />
     <option name="version" value="2024.2.6-233" />
   </component>
